@@ -16,6 +16,16 @@ Using the slicing concept rotate the list
 ### Step 6: 
 ## Program:
 
+```#program to circulate two values
+#Developed by:Anitha P
+#Register Number:21500186
+#program to swap two values
+#Developed by:Anitha P
+#Register Number:21500186
+```
+
 ## Output:
+![output](./python1.png)
 
 ## Result:
+Thus,to circulate the n variables using function concept are successfully completed
