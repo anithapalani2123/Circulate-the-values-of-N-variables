@@ -30,7 +30,8 @@ def circulate():
 ```
 
 ## Output:
-![output](./python1.png)
+![output](./python1.png![python 2](https://user-images.githubusercontent.com/94184990/144272082-e317aa06-25dc-48f7-b940-0330bfc03ac8.PNG)
+)
 
 ## Result:
 Thus,to circulate the n variables using function concept are successfully completed
