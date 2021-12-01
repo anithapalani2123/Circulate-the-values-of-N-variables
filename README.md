@@ -23,9 +23,10 @@ Print the coding to get answer
 ```#program to circulate two values
 #Developed by:Anitha P
 #Register Number:21500186
-#program to swap two values
-#Developed by:Anitha P
-#Register Number:21500186
+def circulate():
+    l=[10,20,30,40,50,60]
+    n=int(input())
+    print("After circulating the values are:",l[n:]+l[:n])
 ```
 
 ## Output:
